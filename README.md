@@ -1,4 +1,5 @@
 # Oregon Processor Bot
+![image](https://github.com/user-attachments/assets/c30c3477-1b8d-431a-928f-c0b8475320b7)
 
 Telegram üzerinden PDF ve tablo fotoğraflarını JSON/CSV formatına çeviren bir bot.
 
